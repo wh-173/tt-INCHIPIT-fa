@@ -5,7 +5,7 @@ module fa_module
     (
         input logic A,
         input logic B,
-        input logic Cin,
+        input logic Cin, 
         output logic S,
         output logic Cout
     );
