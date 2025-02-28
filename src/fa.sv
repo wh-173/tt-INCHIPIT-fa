@@ -1,5 +1,5 @@
 //  Module: fa
-//
+// Che bello imparare il SystemVerylog
 
 module fa_module
     (
